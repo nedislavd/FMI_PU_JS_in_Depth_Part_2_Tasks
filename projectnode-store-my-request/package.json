@@ -1,0 +1,31 @@
+{
+  "name": "projentnode-store-my-request",
+  "version": "1.0.0",
+  "description": "NodeJS CRUD API saving to JSON \"DB\" file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedislavd/projectnode-store-my-request.git"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "rest",
+    "api",
+    "express"
+  ],
+  "author": "nedislavd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedislavd/projectnode-store-my-request/issues"
+  },
+  "homepage": "https://github.com/nedislavd/projectnode-store-my-request#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}

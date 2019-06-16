@@ -1,0 +1,32 @@
+{
+  "name": "build-me-a-new-one",
+  "version": "1.0.0",
+  "description": "NodeJS Project Boilerplate Generator from Templates",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedislavd/projectnode-build-me-a-new-one.git"
+  },
+  "keywords": [
+    "node",
+    "generator",
+    "boilerplate",
+    "template"
+  ],
+  "author": "nedislavd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedislavd/projectnode-build-me-a-new-one/issues"
+  },
+  "homepage": "https://github.com/nedislavd/projectnode-build-me-a-new-one#readme",
+  "bin": {
+    "build-me-a-new-one": "./index.js"
+  }
+}
